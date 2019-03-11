@@ -1,0 +1,1 @@
+# golang-json-schema-ref-resolver
